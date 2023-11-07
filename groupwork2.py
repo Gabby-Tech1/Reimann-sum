@@ -15,5 +15,5 @@ def m_ln(x, n):
         
     return final_answer
 
-ans = m_ln(10, 100)
+ans = m_ln(5, 15)
 print(ans)
